@@ -1,0 +1,34 @@
+<LibraryRecord>
+<Book>
+<BookID>1</BookID>
+<BookName>Hairy Potter</BookName>
+<BookBorrower></BookBorrower>
+<Borrowed>0</Borrowed>
+<BorrowDate>
+<DayBorrow>0</DayBorrow><MonthBorrow>0</MonthBorrow><YearBorrow>0</YearBorrow></BorrowDate>
+<ReturnDate>
+<DayReturn>0</DayReturn><MonthReturn>0</MonthReturn><YearReturn>0</YearReturn></ReturnDate>
+<Returned>1</Returned></Book
+>
+<Book>
+<BookID>2</BookID>
+<BookName>Teh lurd of teh rigns</BookName>
+<BookBorrower>Smeagol</BookBorrower>
+<Borrowed>1</Borrowed>
+<BorrowDate>
+<DayBorrow>10</DayBorrow><MonthBorrow>12</MonthBorrow><YearBorrow>1969</YearBorrow></BorrowDate>
+<ReturnDate>
+<DayReturn>10</DayReturn><MonthReturn>1</MonthReturn><YearReturn>1970</YearReturn></ReturnDate>
+<Returned>0</Returned></Book
+>
+<Book>
+<BookID>3</BookID>
+<BookName>Donjon of Naheulbeuk</BookName>
+<BookBorrower></BookBorrower>
+<Borrowed>0</Borrowed>
+<BorrowDate>
+<DayBorrow>0</DayBorrow><MonthBorrow>0</MonthBorrow><YearBorrow>0</YearBorrow></BorrowDate>
+<ReturnDate>
+<DayReturn>0</DayReturn><MonthReturn>0</MonthReturn><YearReturn>0</YearReturn></ReturnDate>
+<Returned>1</Returned></Book
+></LibraryRecord>
